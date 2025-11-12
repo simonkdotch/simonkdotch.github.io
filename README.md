@@ -1,2 +1,2 @@
 # simonkdotch.github.io
-[about](/about)
+[about](https://simonkdotch.github.io/about)
